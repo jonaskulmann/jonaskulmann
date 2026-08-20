@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently working on OnDescarte<br>learning software development in +PraTI
+Im currently working on OnDescarte<br>Learning Software Development in +PraTI
 
 
 ## 🌐 Socials:
